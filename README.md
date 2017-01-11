@@ -8,8 +8,8 @@ Check if a case needs to be opened or closed based on the results.
 
 
 ##Future Features##
--[ ]Create GUI
--[ ]Output findings to excel document
--[ ]Automatically open cases as needed
+-[  ]Create GUI
+-[  ]Output findings to excel document
+-[  ]Automatically open cases as needed
 
 
